@@ -1,0 +1,21 @@
+.contact{
+    background-color: #3a0988;
+    padding: 5rem;
+}
+
+.contact__container{
+    text-align: center;
+}
+
+.contact__h2{
+    color: white;
+}
+
+.contact__hr{
+    margin: 1rem 30rem;
+}
+
+.contact__p{
+    color: white;
+}
+

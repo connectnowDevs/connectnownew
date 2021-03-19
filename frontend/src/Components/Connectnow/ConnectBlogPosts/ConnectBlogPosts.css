@@ -1,0 +1,32 @@
+.connectBlogPosts{
+    margin-top: 8rem;
+}
+
+.connectBlogPosts__h2{
+    color: black;
+    text-align: center;
+}
+
+
+.connectBlogPosts__posts_container{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    flex-wrap: wrap;
+}
+
+.connectBlogPosts__p{
+    text-align: center;
+}
+
+.connectBlogPosts__img{
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+}
+
+.connectBlogPosts__post{
+    margin: 1rem 4rem;
+    box-shadow: 3px 3px 3px 3px;
+    border-radius: 5px;
+}

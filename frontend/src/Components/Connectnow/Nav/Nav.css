@@ -1,0 +1,44 @@
+.nav__container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 3rem 0rem;
+}
+
+.nav__leftSide{
+    display: flex;
+    align-items: center;
+}
+
+.nav__h3{
+color: white;
+margin-left: 1rem;
+}
+
+
+.nav__logo{
+    width: 100px;
+    object-fit: cover;
+    align-items: center;
+}
+
+.nav__ul{
+    display: flex;
+    align-items: center;
+}
+
+.nav__li{
+    list-style: none;
+}
+
+.nav__active{
+    border-bottom: 1px solid white;
+}
+
+.nav__link{
+    text-decoration: none;
+    margin-right: 3rem;
+    font-size: 1.3rem;
+    color: white;
+    font-weight: bold;
+}

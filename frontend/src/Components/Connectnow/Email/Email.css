@@ -1,0 +1,62 @@
+.email{
+    background-color: #18033a;
+    padding: 5rem;
+    margin-top: 2rem;
+}
+
+.email__container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.email__h2{
+    text-align: center;
+    color: white;
+    margin-bottom: 2rem;
+}
+
+.email__horizontal{
+    border-left: 2px solid grey;
+    height: 330px;
+    align-items: center;
+    text-align: center;
+    margin-left: 2.6rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.email__p{
+    margin-left: 0.5rem;
+    font-size: 1.2rem;
+}
+
+.email__li{
+    list-style: none;
+    color: white;
+    margin: 2.5rem 0rem;
+    display: flex;
+    align-items: center;
+}
+
+.email__input{
+    padding: 13px;
+    width: 25rem;
+    margin-bottom: 0.5rem;
+    border-radius: 5px;
+}
+
+.email__btn{
+    margin-top: 0.5rem;
+    padding: 10px;
+    width: 10rem;
+    border: none;
+    background: blue;
+    color: white;
+    font-weight: bold;
+    border-radius: 3px;
+}
+
+.email__rightSide{
+    padding-left: 1rem;
+}

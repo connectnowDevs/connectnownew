@@ -1,0 +1,32 @@
+.services{
+    background-color: #1d0347;
+    padding: 5rem 3rem;
+    position: relative;
+}
+
+.services__container{
+    margin: 0rem 15rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.services__rightSide{
+    margin-left: 3rem;
+}
+
+.services__h2, .services__p{
+    color: white;
+}
+
+.services__img1{
+    position: absolute;
+    top: 0.3rem;
+    right:0rem;
+}
+
+.services__img2{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}

@@ -1,0 +1,28 @@
+.about{
+    padding: 3rem;
+}
+
+.about__h2{
+    text-align: center;
+}
+
+.about__p{
+    text-align: center;
+}
+
+.about__container{
+    margin: 2rem 15rem;
+}
+
+.about__icons{
+    margin-top: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.about__h3{
+    text-align: center;
+    align-items: center;
+}

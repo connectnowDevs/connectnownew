@@ -1,0 +1,28 @@
+.header__container{
+    background-color: #300674;
+    height: 100vh;
+    padding-bottom: 3rem;
+}
+
+.header__textsAndImageContainer{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.header__littleIcons{
+    position: absolute;
+}
+
+.header__h2,.header__h5{
+    color: white;
+}
+
+.header__h2{
+    font-size: 2rem;
+}
+
+.header__h5{
+    font-size: 1.2rem;
+    font-weight: lighter;
+}
