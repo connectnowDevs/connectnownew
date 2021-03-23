@@ -9,7 +9,7 @@ export default class Services extends Component {
         return (
             <div className='services'>
             <div className='services__top'>
-                <img src={Img1} className='services__img1'></img>
+                
             </div>
             <div className='services__bottom'>
                 <img src={Img2} className='services__img2'></img>

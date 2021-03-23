@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import logo from "./Images/connect.png"
 import "./Nav.css"
+import navlogo from "./Untitled-4.svg"
 
 export default class Nav extends Component {
     render() {
@@ -9,7 +10,8 @@ export default class Nav extends Component {
                 <div className='nav__container'>
                     <div className='nav__leftSide'>
 
-                        <h3 className='nav__h3'>ConnectNow</h3>
+                        <h3 className='nav__h3'>Connect</h3>
+                        <embed className='navLogo' src={navlogo}></embed>
                     </div>
                     <div className='nav__rightSide'>
                     <div className='nav__ul'>
