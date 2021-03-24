@@ -6,7 +6,6 @@ import FourSteps from "./FourSteps/FourStpes"
 import Contact from "./Contact/Contact"
 import Perioxi from "./Perioxi/Perioxi"
 import ConnectBlogPosts from "./ConnectBlogPosts/ConnectBlogPosts"
-import Email from "./Email/Email"
 import Footer from "./Footer/Footer"
 
 
@@ -21,7 +20,6 @@ export default class Connectnow extends Component {
                 <Contact />
                 <Perioxi />
                 <ConnectBlogPosts/>
-                <Email/>
                 <Footer/>
             </div>
         )
