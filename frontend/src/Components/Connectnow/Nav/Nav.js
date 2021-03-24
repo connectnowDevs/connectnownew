@@ -19,7 +19,7 @@ export default class Nav extends Component {
                         <div className='nav__li'><a className='nav__link' href=''>Ποιοί Είμαστε</a></div>
                         <div className='nav__li'><a className='nav__link' href=''>Υπηρεσίες</a></div>
                         <div className='nav__li'><a className='nav__link' href=''>Επικοινώνησε μαζί μας</a></div>
-                        <div className='nav__li'><a className='nav__link' href=''>Blog</a></div>
+                        <div className='nav__li'><a className='nav__link' href='/blog'>Blog</a></div>
                     </div>
                     </div>
                 </div>
